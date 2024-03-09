@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "wip"
+  site-url: "https://halkypi.github.io/wip"
+  description: "wip.py manages projects"
+  repo-branch: main
+  repo-url: "https://github.com/halkypi/wip"
